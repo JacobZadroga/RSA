@@ -1,0 +1,13 @@
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\bin\Debug\netcoreapp3.1\RSA_Client.exe
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\bin\Debug\netcoreapp3.1\RSA_Client.deps.json
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\bin\Debug\netcoreapp3.1\RSA_Client.runtimeconfig.json
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\bin\Debug\netcoreapp3.1\RSA_Client.runtimeconfig.dev.json
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\bin\Debug\netcoreapp3.1\RSA_Client.dll
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\bin\Debug\netcoreapp3.1\RSA_Client.pdb
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.csprojAssemblyReference.cache
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.AssemblyInfoInputs.cache
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.AssemblyInfo.cs
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.csproj.CoreCompileInputs.cache
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.dll
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.pdb
+C:\Users\JZ\source\repos\RSA_Client\RSA_Client\obj\Debug\netcoreapp3.1\RSA_Client.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\JZ\Desktop\RSA_Server.exe
+C:\Users\JZ\Desktop\RSA_Server.dll
+C:\Users\JZ\Desktop\RSA_Server.deps.json
+C:\Users\JZ\Desktop\RSA_Server.runtimeconfig.json
+C:\Users\JZ\Desktop\RSA_Server.pdb
